@@ -1,15 +1,46 @@
-.kolo{
-	color: blue;
+.K1 {
+	background-color: #C0C0C0
 }
 
-.lelelelelelel{
-	color: red;
+.K2 {
+	background-color: #808080
 }
 
-.wewewewewewe{
-	color: green;
+.K3 {
+	background-color: #800000
 }
 
-.ostatni{
-	color: orange;
+.K4 {
+	background-color: #00FF00
+}
+
+.K5 {
+	background-color: #008080
+}
+
+.K6 {
+	background-color: #FF00FF
+}
+
+.K7 {
+	background-color: #000080
+}
+
+.K8 {
+	background-color: #000000
+}
+
+.K9 {
+	background-color: #808000
+}
+
+table {
+	margin: auto;
+	width: 600px;
+	height: 600px;
+	
+}
+
+p {
+	color: white;
 }
