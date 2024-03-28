@@ -1,46 +1,33 @@
-.K1 {
-	background-color: #C0C0C0
+header {
+	background: silver;
+	height: 50px;
 }
 
-.K2 {
-	background-color: #808080
+nav {
+background:aqua;
+height: 600px;
+width: 25%;
+float: left;
 }
 
-.K3 {
-	background-color: #800000
+main {
+background: green;
+height: 600px;
+width: 75%;
+float: left;
+text-align: center;
 }
 
-.K4 {
-	background-color: #00FF00
+footer {
+background: blue;
+clear: both;
+color: white;
 }
 
-.K5 {
-	background-color: #008080
+a {
+	font-size: 150%;
 }
 
-.K6 {
-	background-color: #FF00FF
-}
-
-.K7 {
-	background-color: #000080
-}
-
-.K8 {
-	background-color: #000000
-}
-
-.K9 {
-	background-color: #808000
-}
-
-table {
-	margin: auto;
-	width: 600px;
-	height: 600px;
-	
-}
-
-p {
-	color: white;
+.obrazek {
+	text-align: center;
 }
